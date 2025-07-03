@@ -1,6 +1,9 @@
 # Hi there, I’m Akash 👋
 
-Welcome to my GitHub! I’m **Akash Chowdhary**, a passionate Data Analytics professional specializing in turning raw data into actionable insights and business value. 
+Welcome to my GitHub! I’m **Akash Chowdhary**, a passionate Data Analyst, Proficient in MS Excel,
+Power BI, and MySQL with hands-on experience in cleaning, analyzing, and visualizing data. Skilled in identifying
+patterns and delivering insights that drive business decision-making. Currently upskilling through a Data Analytics
+course at Coding Ninjas.
 
 ---
 
