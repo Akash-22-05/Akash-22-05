@@ -37,7 +37,7 @@ course at Coding Ninjas.
 - Developed an interactive dashboard to visualize sales, returns, and profit metrics by product category and region.
 - Utilized DAX to create KPIs, filters, and drill-down functionalities for enhanced decision-making.
 - Enabled better sales strategy formulation by identifying high-performing and underperforming areas.
-- **[View Project]()**
+- **[View Project](https://lnkd.in/gFWnDAmY)**
 
 ---
 
