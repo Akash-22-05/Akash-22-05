@@ -29,7 +29,7 @@ course at Coding Ninjas.
 - Analyzed sector-wise CPI trends and assessed the economic impact of COVID-19.
 - Created a dynamic dashboard to highlight inflation trends across time and categories.
 - Conducted a correlation analysis between global oil price fluctuations and domestic inflation in sectors like fuel, transport, and food.
-- **[View Project]()**
+- **[View Project](https://github.com/Akash-22-05/CPI-Inflation-Excel-Case-Study-)**
 
 ---
 
