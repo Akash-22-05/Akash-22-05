@@ -28,6 +28,7 @@ course at Coding Ninjas.
 - **Tools:** Excel, Power Query, Charts, Dashboard
 - Analyzed sector-wise CPI trends and assessed the economic impact of COVID-19.
 - Created a dynamic dashboard to highlight inflation trends across time and categories.
+- Conducted a correlation analysis between global oil price fluctuations and domestic inflation in sectors like fuel, transport, and food.
 - **[View Project]()**
 
 ---
@@ -37,15 +38,16 @@ course at Coding Ninjas.
 - Developed an interactive dashboard to visualize sales, returns, and profit metrics by product category and region.
 - Utilized DAX to create KPIs, filters, and drill-down functionalities for enhanced decision-making.
 - Enabled better sales strategy formulation by identifying high-performing and underperforming areas.
-- **[View Project](https://lnkd.in/gFWnDAmY)**
+- **[View Project](https://github.com/Akash-22-05/Bike-Shop-Analysis-Power-Bi-Dashboard)**
 
 ---
 
-### 🍫 Nestlé Sales Dashboard
-- **Tools:** Excel, Power Query, Charts, Pivot Tables, Dashboard
-- Designed KPI dashboards using PivotTables and charts to track sales performance by product and region.
-- Delivered actionable insights that supported product strategy and regional performance evaluations.
-- **[View Project]()**
+### 🍫 Retail Analytics SQL Case Study
+- **Tools:** MySQL, Data Analytics
+- Built a SQL-driven case study simulating real-world retail analytics, focusing on customer loyalty, repeat purchases, and category trends.
+- Delivered insights that support inventory planning, targeted promotions, and business growth decision-making.
+- Documented findings in a structured README and insights report to simulate stakeholder-facing analysis.
+- **[View Project](https://github.com/Akash-22-05/Retail-Analytics-SQL-Case-Study)**
 
 ---
 
